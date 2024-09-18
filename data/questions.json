@@ -1,0 +1,74 @@
+[
+    {
+        "page": 1,
+        "content": [
+            {
+                "type": "h1",
+                "id": "mainHeader",
+                "content": "Weekly Essential Review"
+            },
+            {
+                "type": "h2",
+                "id": "antagelserSubHeader",
+                "content": "Hvilke antakelser eller krav aksepterer jeg uten å stille spørsmål ved dem?"
+            },
+            {
+                "type": "question",
+                "id": "q1",
+                "content": "Hvilke antagelser og krav jobber vi under?",
+                "inputType": "textarea"
+            },
+            {
+                "type": "question",
+                "id": "q2",
+                "content": "Hvilket krav har størst impact på jobben min nå?",
+                "inputType": "textarea"
+            },
+            {
+                "type": "question",
+                "id": "q3",
+                "content": "Hvem har satt det kravet, og hvorfor gjelder det?",
+                "inputType": "textarea"
+            },
+            {
+                "type": "question",
+                "id": "q3",
+                "content": "Hvem har satt det kravet, og hvorfor gjelder det?",
+                "inputType": "textarea"
+            }
+        ]
+    },
+    {
+        "page": 2,
+        "content": [
+            {
+                "type": "h2",
+                "content": "Hvilke prosesser eller oppgaver kan jeg eliminere denne uken?"
+            },
+            {
+                "type": "question",
+                "id": "q4",
+                "content": "Hvilke prosesser holder du på med denne uken?",
+                "inputType": "textarea"
+            },
+            {
+                "type": "question",
+                "id": "q5",
+                "content": "Hvis du måtte valgt kun én av disse prosessene, hvilken er viktigst?",
+                "inputType": "textarea"
+            },
+            {
+                "type": "question",
+                "id": "q5",
+                "content": "Hva skjer hvis du sletter en av de andre?",
+                "inputType": "textarea"
+            },
+            {
+                "type": "question",
+                "id": "q5",
+                "content": "Hvilken skal du slette?",
+                "inputType": "text"
+            }
+        ]
+    }
+]
